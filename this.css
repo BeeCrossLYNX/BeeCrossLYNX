@@ -1,0 +1,33 @@
+body {
+    height: 800px;
+    background-color: rgb(19, 18, 20);
+    overflow-x: hidden;
+}
+.circle {
+    position: relative; left: 625px; top: 150px;
+}
+
+h1 {
+    color: white;
+    position: absolute; left: 640px; top: 50px;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: white;
+    font-family: sans-serif;
+    position: absolute; left: 525px; top: 400px;
+}
+
+.steam {
+    position: absolute; left: 650px; top: 550px;
+}
+.tiktok {
+    position: absolute; left: 500px; top: 550px;
+}
+.facebook {
+    position: absolute; left: 800px; top: 550px;
+}
+.instagram {
+    position: absolute; left: 950px; top: 550px;
+}
